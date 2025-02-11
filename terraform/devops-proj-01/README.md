@@ -1,6 +1,9 @@
-# AWS Infrastructure as Code with Terraform
+# AWS Infrastructure as Code with Terraform (My Personal Practise Project)
 
 This repository contains Terraform configurations for setting up a comprehensive AWS infrastructure. The infrastructure includes networking components, compute resources, security configurations, and more.
+
+![image](https://github.com/user-attachments/assets/91341376-1351-44a5-8156-a9942cb38cb9)
+
 
 ## Infrastructure Components
 
@@ -109,9 +112,8 @@ Please be aware that deploying this infrastructure will incur costs in your AWS 
 - Bastion host is the only entry point to private instances
 - Network traffic is routed through Transit Gateway for better control
 
-## Contributing
-
-Feel free to submit issues and enhancement requests.
+## Inspiration & Credits
+- This is my demo project for creating scalable vpc architecture [posted here.](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-02)
 
 ## License
 
